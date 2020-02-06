@@ -1,5 +1,5 @@
 <p align="center">
-[![StyleCI](https://github.styleci.io/repos/238196940/shield?branch=master)]
+[![StyleCI](https://github.styleci.io/repos/238196940/shield?branch=master)](https://github.styleci.io/repos/238196940)
 </p>
 
 
